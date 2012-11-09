@@ -1,0 +1,482 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"define",
+				"define	Ext.define"
+			],
+			[
+				"d",
+				"define	Ext.define"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"days",
+				"daysOfBreaks"
+			],
+			[
+				"current",
+				"currentDate"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"border-top",
+				"border-top-left-radius"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"backgro",
+				"background-size"
+			],
+			[
+				"paddin",
+				"padding-left"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 451,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/view/Main.js",
+			"settings":
+			{
+				"buffer_size": 425,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/view/Home.js",
+			"settings":
+			{
+				"buffer_size": 189,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/view/QuotesView.js",
+			"settings":
+			{
+				"buffer_size": 403,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/store/TumblrStore.js",
+			"settings":
+			{
+				"buffer_size": 602,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 367.0,
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: Sencha View"
+			],
+			[
+				"Package Control: Ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 160.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/lisasy/Documents/Projects/sencha-tumblr-quotes/app/model/TumblrModel.js",
+		"/Users/lisasy/Documents/Projects/sencha-tumblr-quotes/app.js",
+		"/Users/lisasy/Library/Application Support/Sublime Text 2/Packages/User/view-sencha.sublime-snippet",
+		"/Users/lisasy/Library/Application Support/Sublime Text 2/Packages/User/store-sencha.sublime-snippet",
+		"/Users/lisasy/Library/Application Support/Sublime Text 2/Packages/User/model-sencha.sublime-snippet",
+		"/Users/lisasy/Library/Application Support/Sublime Text 2/Packages/User/Ext_define.sublime-snippet",
+		"/Users/lisasy/Documents/Projects/sencha-friends-list/app/controller/Main.js",
+		"/Users/lisasy/Desktop/johnpolacek-scrolldeck.js-617c18b/index.html",
+		"/Users/lisasy/Desktop/FullscreenSlitSlider/index.html",
+		"/Users/lisasy/Documents/Projects/wesward2_wp/wp-content/themes/wesward2/README.md",
+		"/Users/lisasy/Documents/Projects/wesward2_wp/wp-content/themes/wesward2/style.css",
+		"/Users/lisasy/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/lisasy/Documents/Projects/wesward2_wp/wp-content/themes/wesward2/index.php",
+		"/Users/lisasy/Library/Caches/Cleanup At Startup/Transmit/CBA33963-4C78-4F3B-BFF9-0E57C8C9B959/index.php",
+		"/Users/lisasy/Documents/Projects/wesward2_wp/wp-content/themes/wesward2/sidebar-posts.php",
+		"/Users/lisasy/Documents/Projects/wesward2_wp/wp-content/themes/wesward2/information.php",
+		"/Users/lisasy/Documents/Projects/wesward2_wp/wp-content/themes/wesward2/functions.php",
+		"/Users/lisasy/Documents/Projects/wesward2_wp/wp-content/themes/wesward2/test.php",
+		"/Users/lisasy/Documents/Projects/wesward2_wp/wp-content/themes/wesward2/header.php",
+		"/Users/lisasy/Documents/Projects/wesward2_wp/wp-content/themes/wesward2/resources.php",
+		"/Users/lisasy/Documents/Projects/wesward2_wp/wp-content/themes/wesward2/nav.php",
+		"/Users/lisasy/Documents/Projects/wesward2_wp/wp-content/themes/wesward2/calendar.php",
+		"/Users/lisasy/Documents/Projects/wesward2_wp/wp-content/themes/wesward2/cat-box-menu.php",
+		"/Users/lisasy/Documents/Projects/wesward2_wp/wp-content/themes/wesward2/category.php",
+		"/Users/lisasy/Documents/Projects/wesward2_wp/wp-content/themes/wesward2/faq.php",
+		"/Users/lisasy/Documents/Projects/wesward2_wp/wp-content/themes/wesward2/footer.php",
+		"/Users/lisasy/Documents/Projects/wesward2_wp/wp-content/themes/wesward2/index.html",
+		"/Users/lisasy/Documents/Projects/wesward2_wp/wp-content/themes/wesward2/logo.png",
+		"/Users/lisasy/Documents/Projects/wesward2_wp/wp-content/themes/wesward2/page.php",
+		"/Users/lisasy/Documents/Projects/wesward2_wp/wp-content/themes/wesward2/paper.png",
+		"/Users/lisasy/Documents/Projects/wesward2_wp/wp-content/themes/wesward2/searchform.php",
+		"/Users/lisasy/Documents/Projects/wesward2_wp/wp-content/themes/wesward2/sidebar-front.php",
+		"/Users/lisasy/Documents/Projects/wesward2_wp/wp-content/themes/wesward2/sidebar-information.php",
+		"/Users/lisasy/Documents/Projects/wesward2_wp/wp-content/themes/wesward2/single.php",
+		"/Users/lisasy/Documents/Projects/wesward2_wp/wp-content/themes/wesward2/submit-post.php",
+		"/Users/lisasy/Documents/Projects/wesward2_wp/wp-content/themes/wesward2/white_logo.png",
+		"/Users/lisasy/Documents/Projects/wesward2_wp/wp-content/themes/wesward2/archive.php",
+		"/Users/lisasy/Documents/Projects/wesward2_wp/wp-content/themes/wesward2/404.php",
+		"/Users/lisasy/Documents/Projects/calculator.html",
+		"/Users/lisasy/Documents/WesDev/Information",
+		"/Users/lisasy/Documents/Projects/wesward2_wp/wp-content/themes/wesward2/less/style.less",
+		"/Users/lisasy/Desktop/7 - 2 - Lecture 7.2- Typography (10-47).txt",
+		"/Users/lisasy/Desktop/Modern and Postmodern",
+		"/Users/lisasy/Documents/Projects/wesward2_wp/wp-content/themes/wesward2/css/mobile.css",
+		"/Users/lisasy/Documents/Projects/wesward2_wp/wp-content/themes/wesward2/front-page.php",
+		"/Users/lisasy/Documents/Projects/wesward2_wp/wp-content/themes/wesward2/js/jquery-quicksand.js",
+		"/Users/lisasy/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/lisasy/Library/Application Support/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/lisasy/Documents/Projects/wesward2_wp/wp-content/themes/wesward2/<? get_header(); ?>",
+		"/Users/lisasy/Documents/Projects/wesward2_wp/wp-content/themes/wesward2/querySort.js",
+		"/Users/lisasy/Documents/Projects/wesward2_wp/wp-content/themes/wesward2/querySort.php",
+		"/Users/lisasy/Documents/Projects/wesward2/less/style.less",
+		"/Users/lisasy/Documents/Projects/wesward_theme/index.php",
+		"/Users/lisasy/Documents/Projects/typeclub2/less/style.less",
+		"/Users/lisasy/Documents/Projects/typeclub/index.html",
+		"/Users/lisasy/Documents/Projects/typeclub/style/css/bootstrap.css",
+		"/Users/lisasy/Desktop/rap",
+		"/Users/lisasy/Desktop/Daily.md",
+		"/Users/lisasy/Documents/Projects/rhoep/nav2.php",
+		"/Users/lisasy/Documents/Projects/rhoep/style/bootstrap-responsive.css",
+		"/Users/lisasy/Documents/Projects/rhoep/style/page_sidebar2.php",
+		"/Users/lisasy/Documents/Projects/rhoep/landing.php",
+		"/Users/lisasy/Documents/Projects/rhoep/default.php",
+		"/Users/lisasy/Documents/Projects/rhoep/index.html"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"box-shadow",
+			"h2",
+			"information",
+			"post-content",
+			"block",
+			"post-body",
+			"h3",
+			"post-content",
+			"ol",
+			"ul",
+			"block",
+			"sidebar",
+			"social-links",
+			"block",
+			"post-content",
+			"content",
+			"block",
+			"portfolio",
+			"navbar",
+			"btn-large",
+			"h1",
+			"hero-unit",
+			"h2",
+			"#bd362f",
+			"@red*2",
+			"@red*3",
+			"(@red*1)",
+			"#0088cc",
+			"#0055cc",
+			".navbar",
+			".navbar .nav > li > a",
+			"nav",
+			".navbar-fixed",
+			"navbar",
+			"masthead",
+			"navbar",
+			"nav",
+			"76",
+			"row",
+			"h2",
+			"line-height",
+			"row-fluid",
+			"row",
+			"h4"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 451,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								121,
+								121
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/view/Main.js",
+					"settings":
+					{
+						"buffer_size": 425,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								115,
+								115
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/view/Home.js",
+					"settings":
+					{
+						"buffer_size": 189,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								149,
+								149
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/view/QuotesView.js",
+					"settings":
+					{
+						"buffer_size": 403,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								362,
+								362
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/store/TumblrStore.js",
+					"settings":
+					{
+						"buffer_size": 602,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								286,
+								286
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 200.0,
+	"status_bar_visible": true
+}
